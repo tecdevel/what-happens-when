@@ -8,16 +8,6 @@ enter?"
 Except instead of the usual story, we're going to try to answer this question
 in as much detail as possible. No skipping out on anything.
 
-This is a collaborative process, so dig in and try to help out! There are tons
-of details missing, just waiting for you to add them! So send us a pull
-request, please!
-
-This is all licensed under the terms of the `Creative Commons Zero`_ license.
-
-Read this in `简体中文`_ (simplified Chinese), `日本語`_ (Japanese) and `한국어`_
-(Korean). NOTE: these have not been reviewed by the alex/what-happens-when
-maintainers.
-
 Table of Contents
 ====================
 
